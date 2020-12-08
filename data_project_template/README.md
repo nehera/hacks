@@ -1,6 +1,11 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+#This template is to be copied into new data project repos to make directory trees more uniform. 
+
+##The general data project pipeline is:
+
+##Raw Data -> Cleaning Script(s) -> Tidy Data -> Analysis -> Communication
+
+##Important files to be communicated; 
+##- Raw Data
+##- Tidy Data Set
+##- Code Book (Metadata), including recipe for transforming raw to tidy
+
